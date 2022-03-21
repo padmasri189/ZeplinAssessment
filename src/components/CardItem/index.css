@@ -1,0 +1,14 @@
+.cardContainer {
+  display: flex;
+  flex-direction: column;
+}
+.personImage {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+}
+.discuss-team-details {
+  display: flex;
+
+  flex-direction: row;
+}

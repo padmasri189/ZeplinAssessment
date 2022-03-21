@@ -1,0 +1,24 @@
+.approveCardContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: aquamarine;
+  border-radius: 10px;
+  border: 2px solid gray;
+  height: 100px;
+  align-items: center;
+  margin: 30px;
+  width: 250px;
+}
+.heading {
+  font-size: 30px;
+  font-weight: 700;
+  font-family: 'Roboto';
+  color: blueviolet;
+}
+.para {
+  font-size: 14px;
+  font-weight: 200;
+  font-family: 'Roboto';
+  color: rgb(226, 43, 113);
+}
